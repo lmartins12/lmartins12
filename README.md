@@ -23,6 +23,7 @@
 ##
 
 <div>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucas-martins-0743b1190" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-martins-0743b1190?trk=profile-badge">Lucas Martins</a></div>          
   <a href="https://www.linkedin.com/in/lucas-martins-0743b1190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/l.martins12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
