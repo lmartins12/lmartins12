@@ -19,12 +19,10 @@
   <img align="center" alt="Lucas-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="shinzou-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/740021704444608544/1015119703489908816/shingeki.png?width=500&height=550">
 </div>
-
+  
 ##
 
-<div>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucas-martins-0743b1190" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-martins-0743b1190?trk=profile-badge">Lucas Martins</a></div>          
+<div>       
   <a href="https://www.linkedin.com/in/lucas-martins-0743b1190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/l.martins12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.martins559@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
