@@ -1,4 +1,4 @@
-### E ai!!! Eu me chamo Lucas Martins
+### Bem vindos ao meu perfil!!! Me chamo Lucas
 
 - 📖 Graduando em Analise e Desenvolvimento de Sistemas
 - 💻 Estudando Desenvolvimento Web com Node.js e React
