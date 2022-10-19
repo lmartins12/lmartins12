@@ -1,4 +1,4 @@
-### Bem vindos ao meu perfil!!
+### Bem vindos ao meu perfil
 
 - 📖 Graduando em Analise e Desenvolvimento de Sistemas
 - 💻 Estudando Desenvolvimento Web com Node.js e React
