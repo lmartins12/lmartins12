@@ -4,7 +4,7 @@
 - 💻 Estudando Desenvolvimento Web com Node.js e React
 - 📫 E-mail: lucas.martins559@outlook.com
 - ✅ Pronomes: ele/dele
-- 🧠 Fun fact: Também estou cursando Psicologia 😆
+- 🧠 Fun fact: Também estou cursando Psicologia 😆..
 
 <div align="center">
   <a href="https://github.com/lmartins12">
