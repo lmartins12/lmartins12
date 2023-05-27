@@ -1,7 +1,7 @@
 ### Bem vindos ao meu perfil !!
 
 - 📖 Graduando em Analise e Desenvolvimento de Sistemas
-- 💻 Estudando Desenvolvimento Web com Java e Angular
+- 💻 Estudando Java e Spring Boot
 - 📫 E-mail: lucas.martins559@outlook.com
 - ✅ Pronomes: ele/dele
 - 🧠 Fun fact: Também estou cursando Psicologia 😆. 
