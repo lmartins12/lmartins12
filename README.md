@@ -1,7 +1,7 @@
 ### Bem vindos ao meu perfil !!
 
 - 📖 Graduando em Analise e Desenvolvimento de Sistemas
-- 💻 Estudando Java e Spring Boot
+- 💻 Estudando Java e AWS
 - 📫 E-mail: lucas.martins559@outlook.com
 - ✅ Pronomes: ele/dele
 - 🧠 Fun fact: Também estou cursando Psicologia 😆. 
@@ -10,11 +10,9 @@
   <a href="https://lucasm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visite%20meu%20Portfólio-blue?style=flat-square&logo=Google%20Chrome&logoColor=white" alt="Visite meu Portfólio" width="200"></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/lmartins12">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lmartins12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmartins12&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmartins12\&show_icons=true\&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmartins12\&layout=donut\&theme=github_dark)
+
   
 <div style="display: inline_block"><br>
 
@@ -42,7 +40,5 @@
 <div>       
   <a href="https://www.linkedin.com/in/lucas-martins-0743b1190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:lucas.martins559@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
 
- ![snake gif](https://github.com/lmartins12/lmartins12/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
