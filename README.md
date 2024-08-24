@@ -1,10 +1,8 @@
 ### Bem vindos ao meu perfil !!
 
-- 📖 Graduando em Analise e Desenvolvimento de Sistemas
-- 💻 Estudando Java e AWS
+- 📖 Formado em Analise e Desenvolvimento de Sistemas
 - 📫 E-mail: lucas.martins559@outlook.com
 - ✅ Pronomes: ele/dele
-- 🧠 Fun fact: Também estou cursando Psicologia 😆. 
 
 <p align="center">
   <a href="https://lucasm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visite%20meu%20Portfólio-blue?style=flat-square&logo=Google%20Chrome&logoColor=white" alt="Visite meu Portfólio" width="200"></a>
@@ -32,8 +30,8 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
 
-  <img align="right" alt="shinzou-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/740021704444608544/1015119703489908816/shingeki.png?width=500&height=550">
-</div>
+ <!--- <img align="right" alt="shinzou-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/740021704444608544/1015119703489908816/shingeki.png?width=500&height=550">
+</div> --->
   
 ##
 
